@@ -43,3 +43,14 @@ python scripts/03_figures.py
 Amit A. Clinical Impact of Risk-Stratified Echocardiographic Surveillance 
 for Cardiotoxicity in HER2-Positive Breast Cancer: A Decision-Analytic 
 Markov Model. [Under preparation]
+
+## Data
+
+The BC_cardiotox dataset used to derive transition probabilities is publicly 
+available at Figshare:
+Minchole A, et al. BC_cardiotox: a cardiotoxicity dataset for breast cancer 
+patients. Sci Data 2023;10:542.
+DOI: 10.6084/m9.figshare.22650748
+
+Download the dataset and place the CSV files in the `data/` directory before 
+running the scripts.
